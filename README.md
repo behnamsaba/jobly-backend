@@ -10,16 +10,7 @@ This project includes both a frontend and backend, with this repository focusing
 - [Frontend GitHub Repository](https://github.com/behnamsaba/jobly-frontend)
 - [Live Project](http://equal-frog.surge.sh)
 
-## Installation
-
-First, clone this repository:
-
-```bash
-git clone https://github.com/behnamsaba/jobly-backend.git
-cd jobly-backend
-
 ## Dependencies
-
 This project uses the following dependencies:
 
 - `bcrypt`: ^5.0.0
@@ -36,3 +27,13 @@ This project uses the following dependencies:
 And the following dev dependencies:
 
 - `supertest`: ^5.0.0-0
+## Dependencies
+
+## Installation
+
+First, clone this repository:
+
+```bash
+git clone https://github.com/behnamsaba/jobly-backend.git
+cd jobly-backend
+
