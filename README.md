@@ -27,13 +27,14 @@ This project uses the following dependencies:
 And the following dev dependencies:
 
 - `supertest`: ^5.0.0-0
-## Dependencies
+
 
 ## Installation
 
-First, clone this repository:
+clone this repository:
 
 ```bash
 git clone https://github.com/behnamsaba/jobly-backend.git
 cd jobly-backend
+npm install
 
